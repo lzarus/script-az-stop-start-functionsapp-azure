@@ -1,0 +1,1 @@
+# script-az-stop-start-functionsapp-azure
